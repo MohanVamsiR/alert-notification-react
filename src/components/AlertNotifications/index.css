@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.status {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.text-status {
+  display: felx;
+
+  flex-direction: column;
+}
+.icons {
+  color: #2dca73;
+}
+.icone {
+  color: #ff0b37;
+}
+.iconw {
+  color: #ffb800;
+}
+.iconi {
+  color: #0f81e0;
+}

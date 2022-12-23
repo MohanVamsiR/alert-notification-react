@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  border: 2px solid #475569;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.child {
+  display: flex;
+  justify-content: flex-start;
+  width: 60%;
+}
